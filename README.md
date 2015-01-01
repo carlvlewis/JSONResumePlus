@@ -1,24 +1,34 @@
-# Carl V. Lewis
+###### CURRICULUM VITAE
+# **Carl V. Lewis**
 *Data Journalist - Mobile Developer - Digital Educator*
-[http://carlvlew.is](http://carlvlew.is) `hello@carlvlew.is` `+1 (912) 816-7007`
 
-### Qualifications summary
-* A post-platform journalist
-* web developer
-* design thinker
-* product manager
-* interaction designer
-* digital media educator and data visualization developer with more than 7 years of experience in data journalism
-* news graphics
-* newsroom interactive storytelling
-* curriculum design
-* digital publishing
-* homepage editing
-* product management
-* media entrepreneurship
-* digital strategy/social media management
-* mobile front-end design/development
-* interaction programming and Wordpress/Drupal content management development.
+http://carlvlew.is
+
+###### CONTACT
+
+* Email:`hello@carlvlew.is`
+* Mobile: `+1 (912) 816-7007`
+* Google Voice: '
+
+--
+
+#### Qualifications summary
+A post-platform journalist
+web developer
+design thinker
+product manager
+interaction designer
+digital media educator and data visualization developer with more than 7 years of experience in data journalism
+news graphics
+newsroom interactive storytelling
+curriculum design
+digital publishing
+homepage editing
+product management
+media entrepreneurship
+digital strategy/social media management
+mobile front-end design/development
+interaction programming and Wordpress/Drupal content management development.
 
 
 ### Technical Skills
@@ -34,6 +44,9 @@ Year Abroad | Philosophy, Media Propaganga | University of Oxford, St. Peter&#39
 
 
 ### Professional Experience
+* Research Assistant, Tow Center for Digital Journalism (Oct. 2014 – present)
+    - Assisting in Tow Center's research endeavors.
+    - Preparing own research for upcoming report on optimizing data visualization projects for mobile users.
 * Data Journalism Consultant, Vocativ (Aug. 2014 – Sept. 2014)
     - Invited to serve as one-month, in-house training consultant for Vocativ.com's rapidly expanding Manhattan newsroom, primarily teaching reporters how to incorporate and visualize data in their stories in a way that sheds a new light on the story for users.
 * Adjunct instructor, faculty news organization advisor, Center for Collaborative Journalism at Mercer University (Jun. 2013 – present)
@@ -109,6 +122,7 @@ Year Abroad | Philosophy, Media Propaganga | University of Oxford, St. Peter&#39
 
 
 ### Academic Publications
+* Lewis, Carl V. **[Big Data, Small Screens: Displaying Complex, Multivariate Datasets on Mobile – and Does Consumer Mobile Usage Indicate a Positive ROI? Forthcoming from the Tow Center for Digital Journalism.]()** .
 * Lewis, Carl V. **[Transcending the &#39;Editorial Thunder&#39;: Atlanta&#39;s Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins.]()** The Spires. Mercer University Press; Macon, Ga., 2011. .
 * Lewis, Carl V. **[The Newspaper that Fell From its Ivory Tower: Why the Internet isn&#39;t to Blame for the Decline of The Philadelphia Inquirer.]()** May 2012.
 
