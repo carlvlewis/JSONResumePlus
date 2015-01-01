@@ -13,22 +13,23 @@ http://carlvlew.is
 --
 
 #### Qualifications summary
-A post-platform journalist
-web developer
-design thinker
-product manager
-interaction designer
-digital media educator and data visualization developer with more than 7 years of experience in data journalism
-news graphics
-newsroom interactive storytelling
-curriculum design
-digital publishing
-homepage editing
-product management
-media entrepreneurship
-digital strategy/social media management
-mobile front-end design/development
-interaction programming and Wordpress/Drupal content management development.
+
+* A post-platform journalist
+* web developer
+* design thinker
+* product manager
+* interaction designer
+* digital media educator and data visualization developer with more than 7 years of experience in data journalism
+* news graphics
+* newsroom interactive storytelling
+* curriculum design
+* digital publishing
+* homepage editing
+* product management
+* media entrepreneurship
+* digital strategy/social media management
+* mobile front-end design/development
+* interaction programming and Wordpress/Drupal content management development.
 
 
 ### Technical Skills
