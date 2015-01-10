@@ -1,5 +1,5 @@
 # JSONResumePlus
-##### Credit:[Carl V. Lewis](http://twitter.com/carlvlewis)(@carlvlewis).
+##### Credit:[Carl V. Lewis](http://twitter.com/carlvlewis) (@carlvlewis).
 
 ### Purpose
 To allow additional fields to be parsed by the [JSONResume](http://jsonresume.org) schema, such as recommendations and peer-reviewed publications.
