@@ -1,3 +1,17 @@
+# JSONResumePlus
+##### Credit:[Carl V. Lewis](http://twitter.com/carlvlewis)(@carlvlewis).
+
+### Purpose
+To allow additional fields to be parsed by the [JSONResume](http://jsonresume.org) schema, such as recommendations and peer-reviewed publications.
+
+### Dependencies
+Generated using the JSONResume -cli, which allows quick, clean, pixel perfect exporting of CV data from JSON - an unopinionated data format –– into stylable HTML, Markdown (.md), PDF and LaTeX (as well as print-friendly styles in the HTML and PDF files).
+
+#### SAMPLE MARKDOWN EXPORT RESULT BELOW...
+
+---
+
+
 ###### CURRICULUM VITAE
 # **Carl V. Lewis**
 *Data Journalist - Mobile Developer - Digital Educator*
@@ -122,8 +136,7 @@ Year Abroad | Philosophy, Media Propaganga | University of Oxford, St. Peter&#39
 + Worked alongside SMN county government reporter Eric Curl to take county spending data and break down the logical gaps and holes, which later resulted in a three-part investigative series on the county's inaccurate budgeting habits.
 
 
-### Academic Publications
-* Lewis, Carl V. **[Big Data, Small Screens: Displaying Complex, Multivariate Datasets on Mobile – and Does Consumer Mobile Usage Indicate a Positive ROI? Forthcoming from the Tow Center for Digital Journalism.]()** .
+### Academic Publications 
 * Lewis, Carl V. **[Transcending the &#39;Editorial Thunder&#39;: Atlanta&#39;s Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins.]()** The Spires. Mercer University Press; Macon, Ga., 2011. .
 * Lewis, Carl V. **[The Newspaper that Fell From its Ivory Tower: Why the Internet isn&#39;t to Blame for the Decline of The Philadelphia Inquirer.]()** May 2012.
 
