@@ -127,8 +127,8 @@ Year Abroad | Philosophy, Media Propaganga | University of Oxford, St. Peter&#39
 
 
 ### Academic Publications 
-* Lewis, Carl V. **[Transcending the &#39;Editorial Thunder&#39;: Atlanta&#39;s Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins.]()** The Spires. Mercer University Press; Macon, Ga., 2011. .
-* Lewis, Carl V. **[The Newspaper that Fell From its Ivory Tower: Why the Internet isn&#39;t to Blame for the Decline of The Philadelphia Inquirer.]()** May 2012.
+* Lewis, Carl V. **[Transcending the &#39;Editorial Thunder&#39;: Atlanta&#39;s Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins.](https://www.academia.edu/7340632/_Transcending_the_Editorial_Thunder_Atlantas_Newspaper_Coverage_of_the_1960_Student_Sit-Ins._)** The Spires. Mercer University Press; Macon, Ga., 2011. .
+* Lewis, Carl V. **[The Newspaper that Fell From its Ivory Tower: Why the Internet isn&#39;t to Blame for the Decline of The Philadelphia Inquirer.](https://www.academia.edu/7340612/_The_Newsaper_That_Fell_From_Its_Ivory_Tower_)** May 2012.
 
 
 ---
