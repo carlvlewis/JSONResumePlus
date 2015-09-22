@@ -50,9 +50,7 @@ Year Abroad | Philosophy, Media Propaganga | University of Oxford, St. Peter&#39
 
 
 ### Professional Experience
-* Research Assistant, Tow Center for Digital Journalism (Oct. 2014 – present)
-    - Assisting in Tow Center's research endeavors.
-    - Preparing own research for upcoming report on optimizing data visualization projects for mobile users.
+
 * Data Journalism Consultant, Vocativ (Aug. 2014 – Sept. 2014)
     - Invited to serve as one-month, in-house training consultant for Vocativ.com's rapidly expanding Manhattan newsroom, primarily teaching reporters how to incorporate and visualize data in their stories in a way that sheds a new light on the story for users.
 * Adjunct instructor, faculty news organization advisor, Center for Collaborative Journalism at Mercer University (Jun. 2013 – present)
